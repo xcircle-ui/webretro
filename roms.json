@@ -1,12 +1,6 @@
 {
   "listing" : [
     {
-      "title" : "Sonic the hedgehog",
-      "filename" : "s1built.bin",
-      "thumb" : "Screenshot 2025-09-04 180150.png",
-      "system" : "genesis"
-    },
-    {
       "title" : "Upload your own ROM!",
       "filename" : "",
       "thumb" : "richard.gif",
